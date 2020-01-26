@@ -1,3 +1,3 @@
 # IssueQ
 Problem Statement:
-Develop an Issue Teacking Tool.
+Develop a Issue Tracking Tool.
